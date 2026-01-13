@@ -170,7 +170,7 @@ const projectData = [
       'Introduce a recommendation engine based on user behavior.'
     ],
     links: {
-      live: 'https://assignment-10-pawmart.netlify.app/',
+      live: 'https://urban-fix.netlify.app/',
       github: 'https://github.com/mehdixun/urban-fix-client.git'
     }
   },
